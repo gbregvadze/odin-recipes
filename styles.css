@@ -1,0 +1,25 @@
+div { color: #0a1064; 
+font-size: 56px;
+}
+.first {
+    color: brown;
+    font-size: 30px;
+}
+.second {
+    color: red;
+    font-size: 30px;
+}
+#third {
+    color: yellow;
+    font-size: 30px;
+}
+.description {
+    color: brown;
+    text-align: center;
+}
+#dish {
+    color: red;
+    text-align: center;
+}
+
+
